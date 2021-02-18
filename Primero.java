@@ -1,3 +1,3 @@
 public class Primero{
-	int intI;
+	int intI=11;
 }
