@@ -1,6 +1,6 @@
 public class Segundo{
 	int intI;
 	public Segundo(){
-		this.intI=22;
+		this.intI=23;
 	}
 }
